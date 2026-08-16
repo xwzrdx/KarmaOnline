@@ -1,6 +1,6 @@
 # KarmaOnline
 
-Server Emulator for "Karma Online", never heard of this game but some random on Discord said it would be an amazing birthday gift for his brother!
+Server Emulator for "Karma Online", never heard of this game but some random on Discord messaged me saying this is his dream game, said it would be an amazing birthday gift for his brother! So why not lol.
 
 
 <img width="865" height="116" alt="image" src="https://github.com/user-attachments/assets/b2d5d1eb-73d6-4366-805f-4e615f2705db" />
