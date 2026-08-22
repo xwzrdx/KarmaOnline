@@ -2,6 +2,9 @@
 
 Server Emulator for "Karma Online", never heard of this game but some random on Discord messaged me saying this is his dream game, said it would be an amazing birthday gift for his brother! So why not lol.
 
+# Client Fixes
+* Matches no more require 4 people (2v2), client-side has been patched to allow 2 people (1v1) to start a match.
+
 
 <img width="865" height="116" alt="image" src="https://github.com/user-attachments/assets/b2d5d1eb-73d6-4366-805f-4e615f2705db" />
 <img width="1022" height="759" alt="image" src="https://github.com/user-attachments/assets/7f150ffc-c54c-4413-9717-0e6383528f11" />
