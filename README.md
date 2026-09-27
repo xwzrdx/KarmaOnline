@@ -6,6 +6,7 @@ Server Emulator for "Karma Online", never heard of this game but some random on 
 
 # Done
 * Authentication (Login) through the original Karma Launcher
+* Online player list
 * Create Room
 * Enter Room
 * Lobby Chat
