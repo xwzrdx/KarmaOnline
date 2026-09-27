@@ -2,6 +2,20 @@
 
 Server Emulator for "Karma Online", never heard of this game but some random on Discord messaged me saying this is his dream game, said it would be an amazing birthday gift for his brother! So why not lol.
 
+
+
+# Done
+* Create Room
+* Enter Room
+* Lobby Chat
+* Room Chat
+* Start Match
+* Multiplayer
+  
+
+
+
+
 # Client Fixes
 * Matches no more require 4 people (2v2), client-side has been patched to allow 2 people (1v1) to start a match.
 
@@ -16,6 +30,7 @@ Server Emulator for "Karma Online", never heard of this game but some random on 
 <img width="1014" height="747" alt="image" src="https://github.com/user-attachments/assets/2dfaa5cb-9023-47f4-961f-48e463bb61ff" />
 <img width="694" height="641" alt="image" src="https://github.com/user-attachments/assets/ec4d8768-dfe5-4513-969b-b5fa27d2cca7" />
 <img width="1017" height="758" alt="image" src="https://github.com/user-attachments/assets/073cba55-9e3d-4578-9021-eea8cc400658" />
+<img width="1575" height="888" alt="image" src="https://github.com/user-attachments/assets/0671101c-2aab-463c-a613-489e61f7762e" />
 
 
 Discord: ``wzrd0001``
